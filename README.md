@@ -28,5 +28,9 @@ _O sistema apresentará a tela para gerar uma nova emissão de diário de obra:_
 
 ![image](https://user-images.githubusercontent.com/104030715/231477578-f231d0c4-747c-4471-be80-e5a3ae88a970.png)
 
+## Retorno
+![image](https://user-images.githubusercontent.com/104030715/231478625-9a47155f-74f1-4ede-ab13-acb135b2404b.png)
+
+
 
 
