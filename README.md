@@ -114,6 +114,43 @@ _Acessando este item na parte superior da tela e mostrado uma painel de controle
 
 ![image](https://user-images.githubusercontent.com/104030715/231492998-0e351e80-32c0-40fd-8cae-3e486bd462ac.png)
 
+## Administração
+
+![image](https://user-images.githubusercontent.com/104030715/231494981-04698871-aa62-424c-971f-882da0c05f41.png)
+
+### Usuario
+
+_Cadastro do usuario_
+
+![image](https://user-images.githubusercontent.com/104030715/231495910-8d371166-3f4a-498b-85f1-19defb81ca5b.png)
+
+**Na lista de usuários é possível visualizar:**
+
+* Matrícula
+* Nome do usuário
+* Login
+* Função exercida pelo usuário
+* Órgão
+* Perfil
+* Situação
+* Ações
+
+## Funcionarios
+
+_Cadastro de funcionarios_
+
+![image](https://user-images.githubusercontent.com/104030715/231496968-1960502c-27f6-4f37-bd3d-dc43f9789051.png)
+
+_Na lista de usuários é possível visualizar:_
+
+* Matrícula
+* Nome do usuário
+* Função
+* Órgão
+* Ação
+
+
+
 
 
 
