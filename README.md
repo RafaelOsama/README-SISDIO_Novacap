@@ -15,6 +15,11 @@ O usuário deverá estar previamente autorizado para acessar o _SISDIO_.
 ## login
 ![image](https://user-images.githubusercontent.com/104030715/231474727-011e3796-09ca-4375-bf0b-595f65cd7d10.png)
 
-
 <br>
-_Preencha os campos com o login e senha. Clique em Autorizar acesso para acessar o sistema._
+_Preencha os campos com o login e senha. Clique em Autorizar acesso para acessar o sistema._]
+
+## Painel Principal
+
+_Após realizar o login, o sistema apresentará a seguinte tela:_
+![image](https://user-images.githubusercontent.com/104030715/231475634-e5eeb9bd-2761-4f67-ab6a-0fa56768c354.png)
+
