@@ -23,3 +23,10 @@ _Preencha os campos com o login e senha. Clique em Autorizar acesso para acessar
 _Após realizar o login, o sistema apresentará a seguinte tela:_
 ![image](https://user-images.githubusercontent.com/104030715/231475634-e5eeb9bd-2761-4f67-ab6a-0fa56768c354.png)
 
+## Emissão
+_O sistema apresentará a tela para gerar uma nova emissão de diário de obra:_
+
+![image](https://user-images.githubusercontent.com/104030715/231477578-f231d0c4-747c-4471-be80-e5a3ae88a970.png)
+
+
+
