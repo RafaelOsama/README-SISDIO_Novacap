@@ -29,13 +29,13 @@ _Preencha os campos com o login e senha. Clique em Autorizar acesso para acessar
 
 <br>
 
-## Painel Principal
+# Painel Principal
 
 _Após realizar o login, o sistema apresentará a seguinte tela:_
 ![image](https://user-images.githubusercontent.com/104030715/231475634-e5eeb9bd-2761-4f67-ab6a-0fa56768c354.png)_Após realizar o login, o sistema apresentará a seguinte tela:_
 
 
-## Emissão
+# Emissão
 _O sistema apresentará a tela para gerar uma nova emissão de diário de obra:_
 
 ![image](https://user-images.githubusercontent.com/104030715/231477578-f231d0c4-747c-4471-be80-e5a3ae88a970.png)
@@ -90,7 +90,7 @@ _Na lista de retornos é possível visualizar:_
 * Excluir o retorno (Para excluir o retorno, clique no ícone EXCLUIR)
 * Faturar o retorno (Para faturar o retorno, clique no ícone FATURAR)
 
-## Relatórios
+# Relatórios
 
 
 
@@ -120,7 +120,7 @@ _Acessando este item na parte superior da tela e mostrado uma painel de controle
 
 ![image](https://user-images.githubusercontent.com/104030715/231492998-0e351e80-32c0-40fd-8cae-3e486bd462ac.png)
 
-## Administração
+# Administração
 
 ![image](https://user-images.githubusercontent.com/104030715/231494981-04698871-aa62-424c-971f-882da0c05f41.png)
 
@@ -184,16 +184,6 @@ _Na lista de usuários é possível visualizar:_
 8. >Go to link localhost:8000
 
 ------------------------------------------------------------
-
-_**PROPRIEDADES**_ | _**DESCRIÇÃO**_
------------ | -----------
-*Novacap Ouvidoria* |  https://ouvidoria.df.gov.br/ 
-*Sujestão* | https://ouvidoria.df.gov.br/carta-servico-cidadao/
-*Acesso a informações* | https://www.df.gov.br/category/acesso-a-informacao/
-*Reclamações* | _162_
->
->
----------------------------------------------------------------
 
 _**COLABORADORES**_ | _**GITHUB PAGE**_
 -------------- | ----------------
