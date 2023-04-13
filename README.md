@@ -187,10 +187,8 @@ _Na lista de usuários é possível visualizar:_
 
 _**COLABORADORES**_ | _**GITHUB PAGE**_
 -------------- | ----------------
-**Fillipe Vitor Figueiredo Ramos** | https://github.com/Fillipe-Figueiredo-Ramos
+**Darciso Maia Filho** |	https://github.com/Darciso
 **Rafael Alencar do Amaral** | https://github.com/RafaelOsama
-**Daniel Guilherme Sousa Matuda** | https://github.com/Daniel-matuda
-**Gabriel Lobo** | https://github.com/G-Lobo
-**Paula Santana** | https://github.com/paula30snt
-
+**Rute Miliana**	| https://github.com/rutemiliana
+**Cristian Barbosa**	| https://github.com/djchristiandf
 ---------------------------------------------------------------
