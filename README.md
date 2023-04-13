@@ -160,17 +160,14 @@ _Na lista de usuários é possível visualizar:_
 <br>
 
 -----------------------------------------------------------
-# Tecnologias utilizadas no Projeto/Ascom
+# Tecnologias utilizadas no SISDIO/Novacap
 
-* PHP
+* PHP | v7.3.1
 
-* JavaScript
+* Codeigniter | v3.11
 
-* HTML
+* SQLserver | ano 2005
 
-* CSS
-
-* WordPress
 -------------------------------------------------------------
 # Clonar, organizar e instalar para iniciar localmente
 
