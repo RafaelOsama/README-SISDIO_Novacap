@@ -145,6 +145,7 @@ _Cadastro do usuario_
 * Ações
 
 ## Funcionarios
+<br>
 
 _Cadastro de funcionarios_
 
@@ -159,6 +160,28 @@ _Na lista de usuários é possível visualizar:_
 * Ação
 
 <br>
+
+## Equipamentos
+<br>
+
+_Cadastro de Equipamentos_
+
+
+![image](https://user-images.githubusercontent.com/104030715/231760390-4c2acaca-042d-4156-a52c-d160f1ba5306.png)
+
+## Lista de Equipamentos ativos
+
+### Na lista de equipamentos é possível visualizar:
+
+* Contrato
+*Prefixo
+*Placa/Série
+* Chassi
+* Grupo
+* Tipo
+* Data de cadastro
+* Valores
+* Ações
 
 -----------------------------------------------------------
 # Tecnologias utilizadas no SISDIO/Novacap
