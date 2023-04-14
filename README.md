@@ -9,7 +9,7 @@
 
 
 # Acessando o site
-O usuário deverá estar previamente autorizado para acessar o _SISDIO_.
+***O usuário deverá estar previamente autorizado para acessar o _SISDIO_.***
 **O login e a senha são os mesmos utilizados para o acesso à rede corporativa.**
 
 *Ultimas update*
@@ -20,15 +20,11 @@ O usuário deverá estar previamente autorizado para acessar o _SISDIO_.
 - [x] Relatórios.
 - [x] Administração.
 
-
 ## login
 ![image](https://user-images.githubusercontent.com/104030715/231474727-011e3796-09ca-4375-bf0b-595f65cd7d10.png)
 
-<br>
-
 _Preencha os campos com o login e senha. Clique em Autorizar acesso para acessar o sistema._
 
-<br>
 
 # Painel Principal
 
@@ -45,12 +41,13 @@ _É possível filtrar a ordem da sequencia da lista de DIOs clicando sobre o par
 
 ## Retorno
 ![image](https://user-images.githubusercontent.com/104030715/231478625-9a47155f-74f1-4ede-ab13-acb135b2404b.png)
-Informe o Número DIO e depois em Pesquisar.
 
-Os demais dados serão inseridos automaticamente, com os dados do DIO informado.
+_Informe o Número DIO e depois em Pesquisar._
+
+***Os demais dados serão inseridos automaticamente, com os dados do DIO informado.***
 
 
-*Marque a opção:*
+**Marque a opção:**
 
 * Cancelar DIO (Em caso de Cancelamento, Escolha um motivo)
 * DIO Ocioso
@@ -82,7 +79,6 @@ _Na lista de retornos é possível visualizar:_
 ![image](https://user-images.githubusercontent.com/104030715/231482063-3da271ae-0043-473b-8587-968eb14f6ac4.png)
 
 ### Ações:
-
 
 
 * Cancelar o retorno (Para cancelar o retorno, clique no ícone CANCELAR)
