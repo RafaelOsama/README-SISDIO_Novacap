@@ -170,8 +170,8 @@ _Cadastro de Equipamentos_
 ### Na lista de equipamentos é possível visualizar:
 
 * Contrato
-*Prefixo
-*Placa/Série
+* Prefixo
+* Placa/Série
 * Chassi
 * Grupo
 * Tipo
